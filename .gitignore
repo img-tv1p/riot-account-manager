@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build and distribution
+build/
+dist/
+*.manifest
+
+# Local user configuration and credentials (DPAPI encrypted data)
+config.json
+accounts.json
+*.log
+riot_grabber.log
+
+# Temporary helper scripts
+_make_shortcut.vbs
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and editor settings
+.idea/
+.vscode/
+.gemini/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
