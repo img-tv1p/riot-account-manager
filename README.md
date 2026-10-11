@@ -17,7 +17,7 @@
 
 Перед использованием вы можете ознакомиться с отчетом проверки исполняемого файла на независимом сервисе VirusTotal:
 
-* **Отчет сканирования:** [VirusTotal Report — Ссылка на проверку](https://www.virustotal.com/gui/file/b345d1acf8fde933b70272326c3ab3f074b0de58e4a3a28c18777ba229f167ad?nocache=1)
+* **Отчет сканирования:** [VirusTotal Report — Ссылка на проверку](https://www.virustotal.com/gui/file/d8d8e9c943f6238b755fafdb9a82d00dec3700dc4c8a5a3487c8e4d8c8cf8a44?nocache=1)
 
 ---
 
@@ -102,7 +102,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ВАШ_АККАУНТ/riot-account-manager.git
+git clone https://github.com/img-tv1p/riot-account-manager.git
 cd riot-account-manager
 ```
 
